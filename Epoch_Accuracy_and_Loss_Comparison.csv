@@ -1,0 +1,6 @@
+Epoch,Real Data Accuracy,Real Data Loss,Combined Data Accuracy,Combined Data Loss,Test Accuracy (Real),Test Loss (Real),Test Accuracy (Combined),Test Loss (Combined)
+10,0.4579,1.0243,0.3789,1.0892,0.6125,0.8618,0.528,1.0634
+20,0.5788,0.8666,0.5789,1.0504,,,,
+30,0.6923,0.815,0.6421,0.8803,,,,
+40,0.674,0.8045,0.7088,0.7836,,,,
+50,0.6898,0.7157,0.6888,0.6988,0.6912,0.7171,0.7339,0.6988

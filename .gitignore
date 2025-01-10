@@ -1,0 +1,5 @@
+SyntheticData/
+dataset/
+.idea/
+.venv/
+*epoch_*/
